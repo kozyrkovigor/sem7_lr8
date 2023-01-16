@@ -1,37 +1,19 @@
-Для создания образа: 
+## Отчет о выполнении лабораторной работы 8
 
-```docker build --tag py-simpleapp .```
-
-
-Для запуска контейнера:
-
-```docker run --name py-simpleapp -d -p 80:80 py-simpleapp```
-После: 
-```docker ps```
-
-увидим: 
-```
-CONTAINER ID   IMAGE          COMMAND                 CREATED         STATUS         PORTS                NAMES
-3c70f9ff64d7   py-simpleapp   "python simpleapp.py"   7 seconds ago   Up 6 seconds   0.0.0.0:80->80/tcp   py-simpleapp
-```
+![img](https://sun9-east.userapi.com/sun9-30/s/v1/ig2/5bpymt3eSBedj3-PDDJGBcgK4nOWvu3UdQe4rxDIpZMdjw3H6J75nuT7lxwTwI8bFw2QDxFSz-cs8KuvqehfD2oP.jpg?size=1727x469&quality=96&type=album)
 
 
-Для создания БД в консоли: 
+
+![img](https://sun9-east.userapi.com/sun9-23/s/v1/ig2/SHIqZ9dYYWCw24iNyVL6Lg3aGpMeXuMUUz4SIxcJAtOJGeAIXNqemUKGUB6_YF6iILo394F6lcskWVe9fhdM6aMa.jpg?size=388x150&quality=96&type=album)
 
 
-```python
-import sqlite3
-con = sqlite3.connect("database.db")
-cur = con.cursor()
-```
 
-Для создания таблицы:
-```python
-cur.execute("CREATE TABLE 'log' ('id' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, 'dt' TEXT, 'headers' TEXT)")
-```
+![img](https://sun9-north.userapi.com/sun9-88/s/v1/ig2/Sq57OHOvgvoJY3gqATQh7Byy02Tkvp0Bo-3l9ybFwWecp9O6uHgawudk32bc4TgLWC2Tf97r4YBuUQ35UrG1fVf3.jpg?size=1019x115&quality=96&type=album)
 
+![image-20230116181608570](C:\Users\kozyr\AppData\Roaming\Typora\typora-user-images\image-20230116181608570.png)
 
-Для создания томов и хранения данных в докер:
+![image-20230116181627832](C:\Users\kozyr\AppData\Roaming\Typora\typora-user-images\image-20230116181627832.png)
 
-```
-docker volume create mysql
+![image-20230116181654060](C:\Users\kozyr\AppData\Roaming\Typora\typora-user-images\image-20230116181654060.png)
+
+![image-20230116181712443](C:\Users\kozyr\AppData\Roaming\Typora\typora-user-images\image-20230116181712443.png)
