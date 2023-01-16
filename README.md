@@ -8,12 +8,11 @@
 
 
 
-![img](https://sun9-north.userapi.com/sun9-88/s/v1/ig2/Sq57OHOvgvoJY3gqATQh7Byy02Tkvp0Bo-3l9ybFwWecp9O6uHgawudk32bc4TgLWC2Tf97r4YBuUQ35UrG1fVf3.jpg?size=1019x115&quality=96&type=album)
+![img](https://sun9-east.userapi.com/sun9-29/s/v1/ig2/q091zzgMvRp6Xepp9jSN-aEwhl2LwVU7mDFheKisq7BR8IO5qjOoIVb2IAaO4_bo0ndwbmGbEqmz3oIYECalc-Vo.jpg?size=991x107&quality=96&type=album)
 
-![image-20230116181608570](C:\Users\kozyr\AppData\Roaming\Typora\typora-user-images\image-20230116181608570.png)
 
-![image-20230116181627832](C:\Users\kozyr\AppData\Roaming\Typora\typora-user-images\image-20230116181627832.png)
+![img](https://sun9-north.userapi.com/sun9-80/s/v1/ig2/yQrbCF2MGsmBUiIMQJbFV2ibpKHk0Ad4d-4sSGkbxVW5Dx7GbIr-MqBPAx-ITeZsBzCPF0uHAvWaA6BOsm8cVpaa.jpg?size=322x89&quality=96&type=album)
 
-![image-20230116181654060](C:\Users\kozyr\AppData\Roaming\Typora\typora-user-images\image-20230116181654060.png)
+![img](https://sun9-west.userapi.com/sun9-54/s/v1/ig2/xNuzrobYfTDqh_MJSuYsypidCWcxN6qRPbyVo273P2bNdOMupXzftI3G-NsnU_jAMfBLSw4mOFmOoL0hDBlndLrp.jpg?size=1014x80&quality=96&type=album)
 
-![image-20230116181712443](C:\Users\kozyr\AppData\Roaming\Typora\typora-user-images\image-20230116181712443.png)
+![img](https://sun9-north.userapi.com/sun9-81/s/v1/ig2/r-hQwQzEl9Ef7C7kztE47sTbdqE6LlgMOW-8894HH6DUGlt7lPn1tgK8beyssgfnI4kVGD9nZiR2uQ8Ltf96hCEq.jpg?size=2560x124&quality=96&type=album)
